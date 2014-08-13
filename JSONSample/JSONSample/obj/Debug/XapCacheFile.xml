@@ -1,0 +1,14 @@
+﻿<xapCache source="C:\Users\Gero\documents\visual studio 2013\Projects\JSONSample\JSONSample\Bin\Debug\JSONSample_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="7/25/2014 10:47:10 AM">
+  <file source="C:\Users\Gero\documents\visual studio 2013\Projects\JSONSample\JSONSample\obj\Debug\JSONSample.dll" archivePath="JSONSample.dll" lastWriteTime="7/25/2014 10:47:08 AM" />
+  <file source="C:\Users\Gero\documents\visual studio 2013\Projects\JSONSample\JSONSample\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="7/23/2014 9:25:45 AM" />
+  <file source="C:\Users\Gero\documents\visual studio 2013\Projects\JSONSample\JSONSample\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="7/23/2014 9:25:45 AM" />
+  <file source="C:\Users\Gero\documents\visual studio 2013\Projects\JSONSample\JSONSample\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="7/23/2014 9:25:45 AM" />
+  <file source="C:\Users\Gero\documents\visual studio 2013\Projects\JSONSample\JSONSample\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="7/23/2014 9:25:45 AM" />
+  <file source="C:\Users\Gero\documents\visual studio 2013\Projects\JSONSample\JSONSample\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="7/23/2014 9:25:45 AM" />
+  <file source="C:\Users\Gero\documents\visual studio 2013\Projects\JSONSample\JSONSample\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="7/23/2014 10:17:12 AM" />
+  <file source="C:\Users\Gero\documents\visual studio 2013\Projects\JSONSample\JSONSample\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="7/23/2014 9:25:45 AM" />
+  <file source="C:\Users\Gero\documents\visual studio 2013\Projects\JSONSample\JSONSample\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="7/23/2014 9:25:45 AM" />
+  <file source="C:\Users\Gero\documents\visual studio 2013\Projects\JSONSample\packages\Newtonsoft.Json.6.0.3\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.dll" archivePath="Newtonsoft.Json.dll" lastWriteTime="7/23/2014 9:35:49 AM" />
+  <file source="C:\Users\Gero\documents\visual studio 2013\Projects\JSONSample\packages\Newtonsoft.Json.6.0.3\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.xml" archivePath="Newtonsoft.Json.xml" lastWriteTime="7/23/2014 9:35:49 AM" />
+  <file source="C:\Users\Gero\documents\visual studio 2013\Projects\JSONSample\JSONSample\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="7/23/2014 9:25:57 AM" />
+</xapCache>
